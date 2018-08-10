@@ -1,5 +1,5 @@
 # sparkDatabricks
-public databricks spark notebooks
+public databricks spark notebooks and blogs
 
 ### nested data
 https://docs.databricks.com/_static/notebooks/transform-complex-data-types-python.html
