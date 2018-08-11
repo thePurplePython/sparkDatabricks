@@ -1,5 +1,5 @@
 # sparkDatabricks
-public databricks spark notebooks and blogs
+public databricks spark notebooks, documentation, and blogs
 
 ### pyspark dataframes
 https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html
