@@ -14,3 +14,4 @@ https://docs.databricks.com/_static/notebooks/complex-nested-structured.html
 
 ### spark (structured) streaming
 https://docs.databricks.com/_static/notebooks/structured-streaming-python.html
+https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html
