@@ -1,6 +1,15 @@
 # sparkDatabricks
 public databricks spark notebooks, documentation, and blogs
 
+### databricks introduction
+https://docs.databricks.com/spark/latest/gentle-introduction/gentle-intro.html
+
+### databricks data science
+https://docs.databricks.com/spark/latest/gentle-introduction/for-data-scientists.html
+
+### databricks data engineering
+https://docs.databricks.com/spark/latest/gentle-introduction/for-data-engineers.html
+
 ### pyspark dataframes
 https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html
 
@@ -16,3 +25,4 @@ https://docs.databricks.com/_static/notebooks/complex-nested-structured.html
 https://docs.databricks.com/_static/notebooks/structured-streaming-python.html
 https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html
 https://databricks.com/blog/2017/02/23/working-complex-data-formats-structured-streaming-apache-spark-2-1.html
+
